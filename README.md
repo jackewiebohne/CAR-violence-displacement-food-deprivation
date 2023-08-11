@@ -14,7 +14,7 @@ There are weak but significant correlations between sub-prefectural averaged lev
 
 However, a longer term country-level comparison between 3-year-averages of total fatalities in CAR (based on ACLED) and undernourishment data from the Food and Agriculture Organization of the United Nations (FAO) from 2000-2022 results in a strong and highly significant correlation (Pearson=0.8048057033599774, p=1.09 × 10-5). The results of swapping ACLED with the Uppsala Conflict Data Program (UCDP) are very similar with Pearson=0.7788435997908856, p=3.19 × 10-5 (Spearman is even higher with 0.8181818181818182, pvalue=5.853154433552813 × 10-6).
 
-A weaker linear (but strong monotonic) correlation for the country level was found between internal displacement (IDPs, based on UNHCR) and fatalities. With ACLED we have Spearman=0.745054945054945, pvalue=0.0022300373167420734 and Pearson=0.5644298589535625, pvalue=0.03549110782944768 and for UCPD we have 
+A weaker linear (but strong monotonic) correlation for the country level was found between internal displacement (IDPs, based on IMDC) and fatalities. With ACLED we have Spearman=0.745054945054945, pvalue=0.0022300373167420734 and Pearson=0.5644298589535625, pvalue=0.03549110782944768 and for UCPD we have 
 Spearman=0.6923076923076923, pvalue=0.006071048749990052 and Pearson=0.6131564946540523, pvalue=0.01971409789795338.
 
 Similarly, we have a moderately strong and statistically negative relationship between real GDP (IMF data) and fatalities (ACLED; Pearson=-0.4465577248417361, pvalue=0.022201814809452162) or the best_est fatalities by UCDP (Pearson=-0.617781383110584, pvalue=0.001296447464873898).
