@@ -22,8 +22,8 @@ Similarly, we have a moderately strong and statistically negative relationship b
 
 | correlates | ACLED | UCDP | 1. | 2. | 3. |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1. real GDP | -0.447** | -0.618** | 1 | nan | nan |
-| 2. IDPs | 0.745† **  | 0.692† ** | -0.787** | 1 | nan |
+| 1. real GDP | -0.447** | -0.618** | 1 |  |  |
+| 2. IDPs | 0.745† **  | 0.692† ** | -0.787** | 1 |  |
 | 3. undernourishment | 0.805** | 0.779** | -0.462** | 0.848** | 1.0 |
 
 Notes: All data is at country level and all correlations are Pearson, excepting those labelled with † where the relationship was monotonic but not linear so Spearman was used. ACLED (1997-2022) "fatalities" variable; UCPD (1999-2022) "best_est" variable; 1. real GDP annual % change;  2. FAO 3-year average of % of undernourished persons (2000-2022); 3. IDMC (2009-2022) number of persons internally displaced (IDPs). For comparisons to FAO 3-year averages for the respective data were calculated. All comparisons are for the time period of whichever variable's timespan is shortest.
