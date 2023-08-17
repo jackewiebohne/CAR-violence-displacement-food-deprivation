@@ -18,3 +18,10 @@ A weaker linear (but strong monotonic) correlation for the country level was fou
 Spearman=0.6923076923076923, pvalue=0.006071048749990052 and Pearson=0.6131564946540523, pvalue=0.01971409789795338.
 
 Similarly, we have a moderately strong and statistically negative relationship between real GDP (IMF data) and fatalities (ACLED; Pearson=-0.4465577248417361, pvalue=0.022201814809452162) or the best_est fatalities by UCDP (Pearson=-0.617781383110584, pvalue=0.001296447464873898).
+
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| nan | ACLED | UCDP | nan | 1 | 2 | 3.0 |
+| 1. real GDP | -0.447** | -0.618** | nan | 1 | nan | nan |
+| 2. IDPs | 0.745† **  | 0.692† ** | nan | -0.787** | 1 | nan |
+| 3. undernourishment | 0.805** | 0.779** | nan | -0.462** | 0.848** | 1.0 |
+| Notes: All data is at country level and all correlations are Pearson, excepting those labelled with † where the relationship was monotonic but not linear so Spearman was used. ACLED (1997-2022) "fatalities" variable; UCPD (1999-2022) "best_est" variable; 1. real GDP annual % change;  2. FAO 3-year average of % of undernourished persons (2000-2022); 3. IDMC (2009-2022) number of persons internally displaced (IDPs). For comparisons to FAO 3-year averages for the respective data were calculated. All comparisons are for the time period of whichever variable's timespan is shortest.
